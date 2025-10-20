@@ -1,0 +1,10 @@
+// subset_generation_227.cpp
+// Category: backtracking
+// Simple example implementation/demo
+
+#include <bits/stdc++.h>
+using namespace std;
+
+// Placeholder for subset_generation_227. Replace with full implementation as needed.
+void demo() { cout << "Running subset_generation_227 demo\n"; }
+int main() { demo(); return 0; }
